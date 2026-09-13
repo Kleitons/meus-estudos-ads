@@ -48,3 +48,6 @@ console.log(resultadoSoma); // Exibe 42
 
 let resultadoSubtracao = subtrair(10, 4);
 console.log(resultadoSubtracao); // Exibe 6
+
+let resultadoSubtracao2 = subtrair(8, 6);
+console.log(resultadoSubtracao2);
