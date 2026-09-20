@@ -9,7 +9,7 @@ body {
     margin: 0; /* Removendo margens padrão */
 }
 
-/* Estilizando o êiner principal */
+/* Estilizando o contêiner principal */
 .container {
     background-color: white; /* Cor de fundo branca */
     padding: 40px;
